@@ -1,0 +1,25 @@
+DESTINIE'S CRAFT STORE — GITHUB UPLOAD (split-file version)
+============================================================
+
+GitHub won't take a single file over 25 MB, so the store is split into
+small pieces — nothing here is anywhere near the limit:
+- index.html (about 142 KB) — the store page itself
+- assets/ folder — 61 image files (each about 1 MB or less)
+
+The two MUST stay together exactly like this: index.html in the top level,
+and the images inside a folder named "assets". Don't rename the folder or
+the files, or the pictures won't show.
+
+UPLOAD STEPS
+1. Unzip this kit on your computer or phone.
+2. In your GitHub repository, click "Add file" → "Upload files".
+3. Drag in index.html AND the whole assets folder together
+   (on a phone, select index.html and all the files inside assets).
+4. Click "Commit changes".
+5. Turn on Pages: Settings → Pages → "Deploy from a branch" →
+   branch: main, folder: / (root) → Save.
+6. After a minute or two, your store is live at:
+   https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+
+If an upload batch ever feels too big, do it in two trips — index.html
+first, then the assets files. The site works once everything is up.
