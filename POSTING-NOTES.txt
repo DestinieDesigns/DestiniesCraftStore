@@ -1,0 +1,28 @@
+DESTINIE'S CRAFT STORE — POSTING KIT
+====================================
+
+WHAT'S IN THIS ZIP
+- index.html — your whole store as ONE file. Every photo is built into it,
+  so this single file is all a hosting site needs.
+- photos/ — your original product photos (3 per item), kept by item.
+  Handy as backups, or for posting items on Facebook or anywhere else.
+- destinie-store-photo-prompt.md — the master prompt that keeps product
+  photos consistent if another AI makes your photo sets.
+
+HOW TO POST THE STORE (easiest: Netlify Drop)
+1. Unzip this file.
+2. Go to app.netlify.com/drop
+3. Drag the unzipped folder (the one containing index.html) onto the page.
+4. Netlify gives you a live web address for the store. Done.
+
+(GitHub Pages also works: create a repository, upload index.html, and turn
+on Pages in the repo settings.)
+
+ONE THING TO KNOW
+This zip holds the shopper version of the store — the door, walk, displays,
+and claim pages exactly as designed. The OWNER SIGN-IN version lives inside
+Muse: it needs its saved memory to hold your password and your edits, and
+that can't be zipped into a file. So:
+- Keep making your owner edits in the Muse app version — that's the master.
+- When you want the posted copy refreshed to match, the export can be
+  re-made from the current store in a couple of minutes.
